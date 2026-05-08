@@ -40,7 +40,7 @@ FRate = (α × RA) + (β × RK) − GG
 AYeni = VMülk × FRate × LTVMaks
 
 > [!IMPORTANT]
-> **Tüm teknik detaylar, matematiksel modeller ve deney sonuçları için teknik dökümanı inceleyin:**
+> **For a deep dive into the protocol architecture, mathematical formulas, and full research findings, please refer to the:**
 > [📄 Prop-Fi Whitepaper (PDF)](./Prop-fi_Whitepaper(pdf).pdf)
 
 ## License
