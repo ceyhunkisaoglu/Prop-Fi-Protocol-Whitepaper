@@ -41,7 +41,7 @@ AYeni = VMülk × FRate × LTVMaks
 
 > [!IMPORTANT]
 > **For a deep dive into the protocol architecture, mathematical formulas, and full research findings, please refer to the:**
-> [📄 Prop-Fi Whitepaper (PDF)](./Prop-fi_Whitepaper(pdf))
+> [📄 Prop-Fi Whitepaper (PDF)](./Prop-Fi_Whitepaper.pdf)
 
 ## License
 
