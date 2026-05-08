@@ -1,25 +1,52 @@
 # Prop-Fi-Protocol-Whitepaper
 "CDO-Based Real-World Asset Tokenization and Insured Liquidity Architecture
-# Prop-Fi Protocol: CDO-Based RWA Tokenization
 
-Gelişen kripto dünyası, Real World Asset (RWA) varlıklarını kripto ekonomisine kazandırmada henüz istenilen seviyeye ulaşamamış ve bu alandaki çalışmalara rağmen sürdürülebilir, olumlu bir model üzerinde hemfikir olunamamıştır. [cite_start]Bu araştırma projesi, mevcut yaklaşımlardaki eksiklikleri gidererek gerçek dünya varlıklarının kripto ekosistemine entegrasyonunu sağlamayı ve likidite havuzu mimarisinde bu varlıkların önemli bir finans kaynağı haline gelmesinin önünü açmayı hedefler[cite: 9, 61].
+# Prop-Fi Protocol
 
-## 🚀 Proje Hakkında
-[cite_start]Prop-Fi, özellikle $330 trilyonluk gayrimenkul piyasasındaki likidite sorununa odaklanır[cite: 9, 42]. [cite_start]2008 finansal krizindeki CDO (Collateralized Debt Obligation) yapısal açıklarını modern bir yaklaşımla ele alarak güvenli bir köprü kurar[cite: 10, 63].
+The evolving crypto economy still struggles to efficiently integrate traditional financial assets into decentralized finance ecosystems, despite the massive growth potential of Real World Assets (RWA).
 
-### 🛠 Teknik İnovasyonlar
-* [cite_start]**Dual-Layer Insurance Mechanism:** Ön tasfiye sigorta havuzu ile yasal süreçlerdeki gecikmeleri %80 oranında azaltarak operasyonel verimlilik sağlar[cite: 12, 13, 100].
-* [cite_start]**Hybrid DLT-RDBMS Architecture:** Blokzincirinin değişmezliği (DLT) ile geleneksel veritabanlarının (RDBMS) hızını birleştirerek veri bütünlüğünü optimize eder[cite: 65, 76].
-* [cite_start]**Algorithmic Risk Modeling:** Kredi riskini $F_{Rate}$ ve $G_{G}$ (Feedback Loop) algoritmalarıyla dinamik olarak yöneten iki boyutlu bir matris mimarisi sunar[cite: 81, 105].
+Although numerous studies and projects have focused on this field, the industry has yet to reach a consensus on a sustainable model regarding liquidity management, risk modeling, legal enforcement processes, and trust mechanisms.
 
-## 📂 Dosya Yapısı
-* [cite_start]`Prop-fi_Whitepaper(pdf).pdf`: Projenin tüm matematiksel modellerini, teorik altyapısını ve deney tasarımlarını içeren kapsamlı teknik döküman[cite: 6, 95].
-* `LICENSE`: Telif hakları ve kullanım şartları.
+The Prop-Fi Protocol research introduces an experimental financial architecture designed to address these structural challenges.
 
-## ⚖️ Lisans (Legal)
-**Copyright (c) 2026 Ceyhun Kısaoğlu. All Rights Reserved.**
+The protocol aims to integrate Real World Assets into the crypto economy through mechanisms such as:
 
-Bu projenin ve içerdiği algoritmaların tüm fikri mülkiyet hakları Ceyhun Kısaoğlu'na aittir. Yazarın yazılı izni olmaksızın ticari amaçlarla kullanılması, kopyalanması veya dağıtılması yasaktır. Akademik iş birlikleri ve geliştirme önerileri için lütfen bir "Issue" açın.
+- Tokenization of real estate-backed assets
+- Strengthening decentralized liquidity infrastructure
+- Algorithmic risk management
+- Insured liquidity pool architecture
+- Dynamic credit rating systems
 
----
-[cite_start]*Bu çalışma, Doğuş Üniversitesi Bilgisayar Mühendisliği bünyesinde yürütülen bir araştırma projesidir[cite: 3, 5].*
+In addition, the proposed Dual-Layer Insurance architecture enables RWA-based liquidity pools to become a significant financial resource within next-generation decentralized finance systems.
+
+## Research Focus
+
+- Real World Asset Tokenization
+- DeFi Lending Architecture
+- Algorithmic Risk Management
+- Smart Contract Systems
+- Decentralized Liquidation
+- Hybrid DLT-RDBMS Infrastructure
+- Financial Insurance Mechanisms
+## Operational Impact & Liquidation Speed
+-Legal Acceleration: The protocol is designed to reduce legal foreclosure delays by over 80%.
+-Instant Funding: A Pre-Liquidation Insurance Pool instantly funds the Bank's legal costs using staked funds
+-Algorithmic Accountability: The Feedback Loop (GG ) enforces the honesty and speed of the central Bank; any delay directly penalizes the Bank’s multiplier.
+-Shock Resilience: Stability of real asset collateral protects the system against systemic shocks and financial crises.
+## Core Model
+
+FRate = (α × RA) + (β × RK) − GG
+
+AYeni = VMülk × FRate × LTVMaks
+
+> [!IMPORTANT]
+> **Tüm teknik detaylar, matematiksel modeller ve deney sonuçları için teknik dökümanı inceleyin:**
+> [📄 Prop-Fi Whitepaper (PDF)](./Prop-fi_Whitepaper(pdf).pdf)
+
+## License
+
+All intellectual property rights, protocol architecture, research models, and documentation related to Prop-Fi Protocol belong to Ceyhun Kısaoğlu.
+
+Unauthorized reproduction, redistribution, modification, or commercial use of this project is prohibited without explicit permission.
+
+Individuals or organizations interested in contributing to, developing, or collaborating on the project are welcome to get in contact.
